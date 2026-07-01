@@ -6,7 +6,7 @@ import os
 
 
 # 設定情報
-API_KEY = "7aab7a8baca04e8bbf37995024e913a1"
+API_KEY = "自分のAPIキー"
 BASE_URL = "https://api.edinet-fsa.go.jp/api/v2/documents.json"
 
 START_DATE = datetime(2025, 4, 1)
