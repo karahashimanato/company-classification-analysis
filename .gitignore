@@ -223,3 +223,5 @@ src/notebooks/covid_analyze.ipynb
 src/notebooks/tramp_tariff_analyze.ipynb
 src/notebooks/lehman_analyze.ipynb
 src/notebooks/hist_analyze.ipynb
+
+src/analysis/
